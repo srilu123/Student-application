@@ -1,0 +1,31 @@
+INFO	2015-06-09 20:59:11,403	0	com.parsa.student.app.Application	[main]	insert query: insert into student(rollno,name,detp,college,collegeid) values (6,'Sri','IIT','jntuH',4001)
+ERROR	2015-06-09 20:59:11,419	16	com.parsa.student.app.Application	[main]	Record not inserted. Error Code : 1062. ErrorMessage : Duplicate entry '6' for key 'PRIMARY'
+INFO	2015-06-09 20:59:11,466	63	com.parsa.student.app.Application	[main]	Delete query: DELETE FROM student WHERE rollno= 9
+INFO	2015-06-09 20:59:11,466	63	com.parsa.student.app.Application	[main]	name: Lohitakshay, College name: HARWARD UNIVERSITY, Department: MBA
+INFO	2015-06-09 20:59:11,685	282	com.parsa.student.app.Application	[main]	update query: update student set collegeid=1300 where rollno= 20
+INFO	2015-06-09 20:59:11,685	282	com.parsa.student.app.Application	[main]	no of updated records: 1
+INFO	2015-06-09 21:00:12,085	0	com.parsa.student.app.Application	[main]	insert query: insert into student(rollno,name,detp,college,collegeid) values (6,'Sri','IIT','jntuH',4001)
+ERROR	2015-06-09 21:00:12,116	31	com.parsa.student.app.Application	[main]	Record not inserted. Error Code : 1062. ErrorMessage : Duplicate entry '6' for key 'PRIMARY'
+INFO	2015-06-09 21:00:12,163	78	com.parsa.student.app.Application	[main]	Delete query: DELETE FROM student WHERE rollno= 9
+INFO	2015-06-09 21:00:12,163	78	com.parsa.student.app.Application	[main]	name: Lohitakshay, College name: HARWARD UNIVERSITY, Department: MBA
+INFO	2015-06-09 21:00:12,226	141	com.parsa.student.app.Application	[main]	update query: update student set collegeid=1300 where rollno= 20
+INFO	2015-06-09 21:00:12,226	141	com.parsa.student.app.Application	[main]	no of updated records: 1
+INFO	2015-06-09 21:03:01,415	0	com.parsa.student.app.Application	[main]	insert query: insert into student(rollno,name,detp,college,collegeid) values (6,'Sri','IIT','jntuH',4001)
+ERROR	2015-06-09 21:03:01,431	16	com.parsa.student.app.Application	[main]	Record not inserted. Error Code : 1062. ErrorMessage : Duplicate entry '6' for key 'PRIMARY'
+INFO	2015-06-09 21:03:01,480	65	com.parsa.student.app.Application	[main]	Delete query: DELETE FROM student WHERE rollno= 9
+INFO	2015-06-09 21:03:01,488	73	com.parsa.student.app.Application	[main]	name: Lohitakshay, College name: HARWARD UNIVERSITY, Department: MBA
+INFO	2015-06-09 21:03:01,573	158	com.parsa.student.app.Application	[main]	update query: update student set collegeid=1300 where rollno= 20
+INFO	2015-06-09 21:03:01,574	159	com.parsa.student.app.Application	[main]	no of updated records: 1
+INFO	2015-06-09 21:10:41,698	0	com.parsa.student.app.Application	[main]	insert query: insert into student(rollno,name,detp,college,collegeid) values (6,'Sri','IIT','jntuH',4001)
+ERROR	2015-06-09 21:10:41,730	32	com.parsa.student.app.Application	[main]	Record not inserted. Error Code : 1062. ErrorMessage : Duplicate entry '6' for key 'PRIMARY'
+INFO	2015-06-09 21:10:41,745	47	com.parsa.student.app.Application	[main]	Delete query: DELETE FROM student WHERE rollno= 9
+INFO	2015-06-09 21:10:41,761	63	com.parsa.student.app.Application	[main]	name: Lohitakshay, College name: HARWARD UNIVERSITY, Department: MBA
+INFO	2015-06-09 21:10:41,808	110	com.parsa.student.app.Application	[main]	update query: update student set collegeid=1300 where rollno= 20
+INFO	2015-06-09 21:10:41,808	110	com.parsa.student.app.Application	[main]	no of updated records: 1
+INFO	2015-06-09 21:11:14,649	0	com.parsa.student.app.Application	[main]	insert query: insert into student(rollno,name,detp,college,collegeid) values (6,'Sri','IIT','jntuH',4001)
+ERROR	2015-06-09 21:11:14,680	31	com.parsa.student.app.Application	[main]	Record not inserted. Error Code : 1062. ErrorMessage : Duplicate entry '6' for key 'PRIMARY'
+INFO	2015-06-09 21:11:14,696	47	com.parsa.student.app.Application	[main]	Delete query: DELETE FROM student WHERE rollno= 9
+INFO	2015-06-09 21:11:14,712	63	com.parsa.student.app.Application	[main]	name: Lohitakshay, College name: HARWARD UNIVERSITY, Department: MBA
+INFO	2015-06-09 21:11:14,758	109	com.parsa.student.app.Application	[main]	update query: update student set collegeid=1300 where rollno= 20
+INFO	2015-06-09 21:11:14,758	109	com.parsa.student.app.Application	[main]	no of updated records: 1
+ERROR	2015-06-09 21:46:18,093	0	com.parsa.student.app.Application	[main]	Record not inserted. Error Code : 1062. ErrorMessage : Duplicate entry '6' for key 'PRIMARY'
